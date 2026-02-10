@@ -1,4 +1,5 @@
 #pragma once
+#define REMOTE_VERSION 2
 #include <string>
 
 #ifndef DLLEXPORT
